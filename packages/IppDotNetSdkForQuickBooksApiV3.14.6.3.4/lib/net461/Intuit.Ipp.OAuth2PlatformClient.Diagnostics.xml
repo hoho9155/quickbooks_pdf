@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Intuit.Ipp.OAuth2PlatformClient.Diagnostics</name>
+    </assembly>
+    <members>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.IOAuthAdvancedLogger.Log(System.String)">
+            <summary>
+            Logs messages
+            </summary>
+            <param name="messageToWrite">The message to write.</param>
+        </member>
+        <member name="T:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.LogHelper">
+            <summary>
+            Helper class for advanced logger/serilogger
+            </summary>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.LogHelper.GetAdvancedLoggingCustom(Serilog.ILogger)">
+            <summary>
+            Gets the Request Response Logging mechanism for advanced logging using serilog.
+            </summary>
+            <returns>Returns value which specifies the request response logging mechanism.</returns>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.LogHelper.GetAdvancedLogging(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String)">
+            <summary>
+            Gets the Request Response Logging mechanism for advanced logging using serilog.
+            </summary>
+            <returns>Returns value which specifies the request response logging mechanism.</returns>
+        </member>
+        <member name="T:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging">
+            <summary>
+            Contains properties used to indicate whether request and response messages are to be logged.
+            </summary>
+        </member>
+        <member name="F:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.serviceRequestLoggingLocationForFile">
+            <summary>
+            request logging location.
+            </summary>
+        </member>
+        <member name="P:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.EnableSerilogRequestResponseLoggingForDebug">
+            <summary>
+            Gets or sets a value indicating whether to enable reqeust response logging for Debug logs.
+            </summary>
+        </member>
+        <member name="P:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.EnableSerilogRequestResponseLoggingForTrace">
+            <summary>
+            Gets or sets a value indicating whether to enable reqeust response logging for Trace logs.
+            </summary>
+        </member>
+        <member name="P:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.EnableSerilogRequestResponseLoggingForConsole">
+            <summary>
+            Gets or sets a value indicating whether to enable reqeust response logging for Console logs.
+            </summary>
+        </member>
+        <member name="P:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.EnableSerilogRequestResponseLoggingForFile">
+            <summary>
+            Gets or sets a value indicating whether to enable reqeust response logging for File logs.
+            </summary>
+        </member>
+        <member name="P:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.ServiceRequestLoggingLocationForFile">
+            <summary>
+            Gets or sets the service request logging location for File, Rolling File.
+            </summary>
+        </member>
+        <member name="F:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.logger">
+            <summary>
+            Serilog Logger
+            </summary>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.#ctor">
+            <summary>
+            Initializes a new instance of AdvanceLogging
+            </summary>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.#ctor(Serilog.ILogger)">
+            <summary>
+            Initializes a new instance of Advanced logging class        
+            </summary>
+            <param name="customLogger"></param>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String)">
+            <summary>
+            Initializes a new instance of Advanced logger
+            </summary>
+            <param name="enableSerilogRequestResponseLoggingForDebug"></param>
+            <param name="enableSerilogRequestResponseLoggingForTrace"></param>
+            <param name="enableSerilogRequestResponseLoggingForConsole"></param>
+            <param name="enableSerilogRequestResponseLoggingForFile"></param>
+            <param name="serviceRequestLoggingLocationForFile"></param>
+        </member>
+        <member name="M:Intuit.Ipp.OAuth2PlatformClient.Diagnostics.OAuthAdvancedLogging.Log(System.String)">
+            <summary>
+            Logging message from SDK
+            </summary>
+            <param name="messageToWrite"></param>
+        </member>
+    </members>
+</doc>

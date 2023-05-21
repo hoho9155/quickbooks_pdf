@@ -1,0 +1,396 @@
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\PDf_Upload.dll.config
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\PDf_Upload.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\PDf_Upload.pdb
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\PDf_Upload.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csc.exe
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csc.exe.config
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csc.rsp
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csi.exe
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csi.exe.config
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\csi.rsp
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.AppContext.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Console.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Net.Http.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\vbc.exe
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\vbc.exe.config
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\vbc.rsp
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Data.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Printing.v22.2.Core.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Web.ASPxThemes.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Web.Resources.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Web.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Drawing.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Office.v22.2.Core.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Data.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Printing.v22.2.Core.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Web.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Office.v22.2.Core.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.vbproj.AssemblyReference.cache
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.Resources.resources
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.vbproj.GenerateResource.cache
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.dll.licenses
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.vbproj.CoreCompileInputs.cache
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.vbproj.CopyComplete
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\obj\Debug\PDf_Upload.pdb
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Utils.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraLayout.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraEditors.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraBars.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Utils.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraLayout.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraEditors.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraBars.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\BouncyCastle.Crypto.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.barcodes.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.commons.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.forms.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.io.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.kernel.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.layout.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.pdfa.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.sign.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.styledxmlparser.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.svg.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Logging.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Options.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Newtonsoft.Json.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Buffers.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Memory.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Numerics.Vectors.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.ValueTuple.dll
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\BouncyCastle.Crypto.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.barcodes.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.commons.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.forms.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.io.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.kernel.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.layout.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.pdfa.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.sign.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.styledxmlparser.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\itext.svg.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Logging.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Options.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\Newtonsoft.Json.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Buffers.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Memory.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Numerics.Vectors.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dimck\Documents\Visual Studio 2022\Projects\PDf_Upload\bin\System.ValueTuple.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\PDf_Upload.dll.config
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\PDf_Upload.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\PDf_Upload.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\PDf_Upload.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.ValueTuple.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\VBCSCompiler.exe
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\BouncyCastle.Crypto.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Data.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Office.v22.2.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Printing.v22.2.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.RichEdit.v22.2.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Utils.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Web.ASPxThemes.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Web.Resources.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Web.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraPrinting.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Data.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.DataService.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Diagnostics.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.EntitlementService.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Exception.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.GlobalTaxService.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.Diagnostics.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.QueryFilter.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.ReportService.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Retry.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Security.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Utility.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.WebHooksService.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\IppDotNetSdkForQuickBooksApiV3.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.barcodes.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.commons.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.forms.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.io.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.kernel.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.layout.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.pdfa.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.sign.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.styledxmlparser.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.svg.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Xml.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.DependencyModel.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Logging.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Options.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Primitives.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Newtonsoft.Json.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Enrichers.Environment.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Enrichers.Thread.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Extensions.Logging.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Settings.Configuration.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Console.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Debug.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.File.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Trace.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\SerilogTraceListener.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Buffers.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Configuration.ConfigurationManager.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Diagnostics.DiagnosticSource.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Memory.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Numerics.Vectors.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.AccessControl.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.Cryptography.Xml.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.Permissions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.Principal.Windows.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Threading.Tasks.Extensions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.ValueTuple.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Drawing.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Pdf.v22.2.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Pdf.v22.2.Drawing.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Data.Desktop.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraLayout.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraEditors.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraBars.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraTreeList.v22.2.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Sparkline.v22.2.Core.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\BouncyCastle.Crypto.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Data.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Printing.v22.2.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Office.v22.2.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.RichEdit.v22.2.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Utils.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Web.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraPrinting.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Core.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Data.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Data.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.DataService.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.DataService.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Diagnostics.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Diagnostics.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.EntitlementService.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.EntitlementService.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Exception.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Exception.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.GlobalTaxService.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.GlobalTaxService.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.Diagnostics.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.OAuth2PlatformClient.Diagnostics.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.QueryFilter.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.QueryFilter.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.ReportService.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.ReportService.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Retry.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Retry.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Security.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Security.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Utility.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.Utility.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.WebHooksService.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Intuit.Ipp.WebHooksService.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\IppDotNetSdkForQuickBooksApiV3.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\IppDotNetSdkForQuickBooksApiV3.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.barcodes.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.commons.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.forms.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.io.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.kernel.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.layout.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.pdfa.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.sign.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.styledxmlparser.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\itext.svg.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Configuration.Xml.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Logging.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Options.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.Extensions.Primitives.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Enrichers.Thread.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Extensions.Logging.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Settings.Configuration.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Console.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Debug.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.File.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.File.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Serilog.Sinks.Trace.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\SerilogTraceListener.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Buffers.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Configuration.ConfigurationManager.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Diagnostics.DiagnosticSource.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Memory.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Numerics.Vectors.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.AccessControl.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.Permissions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Security.Principal.Windows.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.Threading.Tasks.Extensions.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\System.ValueTuple.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Pdf.v22.2.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Pdf.v22.2.Drawing.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Data.Desktop.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraLayout.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraEditors.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraBars.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.XtraTreeList.v22.2.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\DevExpress.Sparkline.v22.2.Core.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.vbproj.AssemblyReference.cache
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.Resources.resources
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.vbproj.GenerateResource.cache
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.dll.licenses
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.vbproj.CoreCompileInputs.cache
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.vbproj.CopyComplete
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.xml
+E:\projects\pdf_updated_quickbooks\PDf_Upload\obj\Debug\PDf_Upload.pdb
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csc.exe
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csc.exe.config
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csc.rsp
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csi.exe
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csi.exe.config
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\csi.rsp
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.AppContext.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Console.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Globalization.Calendars.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.IO.Compression.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Net.Http.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Net.Sockets.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Xml.XPath.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\vbc.exe
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\vbc.exe.config
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\vbc.rsp
+E:\projects\pdf_updated_quickbooks\PDf_Upload\bin\roslyn\VBCSCompiler.exe.config

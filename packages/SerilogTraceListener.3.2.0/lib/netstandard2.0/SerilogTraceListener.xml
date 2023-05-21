@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SerilogTraceListener</name>
+    </assembly>
+    <members>
+        <member name="T:SerilogTraceListener.SerilogTraceListener">
+            <summary>
+            TraceListener implementation that directs all output to Serilog.
+            </summary>
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.#ctor">
+            <summary>
+                Creates a SerilogTraceListener that sets logger to null so we can still use Serilog's Logger.Log
+            </summary>
+            <remarks>
+                This is needed because TraceListeners are often configured through XML
+                where there would be no opportunity for constructor injection
+            </remarks>
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.#ctor(Serilog.ILogger)">
+            <summary>
+                Creates a SerilogTraceListener that uses the specified logger
+            </summary>
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.#ctor(System.String)">
+            <summary>
+                Creates a SerilogTraceListener for the context specified.
+            </summary>
+            <example>
+                &lt;listeners&gt;
+                    &lt;add name="Serilog" type="SerilogTraceListener.SerilogTraceListener, SerilogTraceListener" initializeData="MyContext" /&gt;
+                &lt;/listeners&gt;
+            </example>
+        </member>
+        <member name="P:SerilogTraceListener.SerilogTraceListener.IsThreadSafe">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Fail(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Fail(System.String,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceData(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.Object)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceData(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.Object[])">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String,System.Object[])">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.TraceTransfer(System.Diagnostics.TraceEventCache,System.String,System.Int32,System.String,System.Guid)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Write(System.Object)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Write(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Write(System.Object,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.Write(System.String,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.WriteLine(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.WriteLine(System.Object)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.WriteLine(System.String,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SerilogTraceListener.SerilogTraceListener.WriteLine(System.Object,System.String)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
